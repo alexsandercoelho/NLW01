@@ -1,3 +1,9 @@
-export async function up() {}
+import Knex from 'knex';
 
-export async function down() {}
+export async function up(knex: Knex) {
+ 
+};
+
+export async function down() {
+
+}
